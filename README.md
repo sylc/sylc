@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Personal projects exploring technologies
+
+- https://www.timedown.org/ : Exploring [svelte kit](https://kit.svelte.dev/) on a cloudflare worker
+- https://agilepoker.deno.dev/: Exploring at edge depoyment with [deno deploy](https://deno.com/deploy) and [Fauna](https://fauna.com/)  
+
+
 <!--
 **sylc/sylc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
