@@ -3,7 +3,7 @@
 ### Personal projects exploring technologies
 
 - [timedown.org](https://timedown.org/): Exploring [svelte kit](https://kit.svelte.dev/) on cloudflare pages
-- [agileteampoker.com](https://agileteampoker.com): Exploring @edge depoyment with [deno deploy](https://deno.com/deploy) and [Fauna](https://fauna.com/)
+- [agileteampoker.com](https://agileteampoker.com): Exploring @edge depoyment with [deno deploy](https://deno.com/deploy) and ~~Fauna~~ [DenoKV]([https://fauna.com/](https://deno.com/kv))
 
 ### Open Source Projects
 - [dkill](https://github.com/sylc/dkill) : killing any process via port or name 
