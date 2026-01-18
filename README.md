@@ -6,7 +6,8 @@
 - [agileteampoker.com](https://agileteampoker.com): Exploring @edge depoyment with [deno deploy](https://deno.com/deploy) and ~~Fauna~~ [DenoKV](https://deno.com/kv)
 
 ### Open Source Projects
-- [dkill](https://github.com/sylc/dkill) : killing any process via port or name 
+- [dkill](https://github.com/sylc/dkill) : killing any process via port or name.
+- [tak](https://github.com/sylc/tak) : Desktop app to track time on tasks.
 
 <!--
 **sylc/sylc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
